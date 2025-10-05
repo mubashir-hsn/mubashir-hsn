@@ -47,18 +47,17 @@
 
 | 🔗 Project | 🧠 Description |
 |-------------|----------------|
-| 🎥 [YouTube Clone](https://github.com/yourusername/youtube-clone) | Built using **React**, **Tailwind**, and **Rapid API**. Users can browse, play, and explore videos in a YouTube-like interface. |
-| 🛒 [E-Commerce Store](https://github.com/yourusername/ecommerce-app) | MERN-based clothing store with **JWT Auth**, **SweetAlert notifications**, and **AI-based product recommendations**. |
-| 🎓 [Careerly-AI](https://github.com/yourusername/Careerly-AI) | Next.js + Gemini AI project — includes **AI career assistant**, **resume builder**, and **interview coach**. |
-| 💬 [AI Chat Website](https://github.com/yourusername/ai-chat-app) | Real-time chat platform with **Gemini AI chatbot**, file sharing, and multilingual voice support. |
-
+| 🎓 [Careerly](https://github.com/mubashir-hsn/careerly) | AI Career Coach built using **Next.js App Router**, **Gemini API**, **Neon**, and **Prisma** with AI chatbot, resume builder, and interview coach. |
+| 🛒 [Litefit Store](https://github.com/mubashir-hsn/LiteFit) | **E-commerce Store** for clothing built with **MERN Stack** — includes product filtering, JWT-based authentication, and responsive UI with **TailwindCSS**. |
+| 💬 [ChatApp](https://github.com/mubashir-hsn/chat-app) | Real-time **Chat App** built using **MERN + Socket.IO**, featuring user authentication, online status, and instant messaging. |
+| 🎥 [YouTube Clone](https://github.com/mubashir-hsn/yt-clone) | Video streaming app using **React**, **Tailwind**, and **Rapid API** that mimics YouTube’s experience. |
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Mubashar's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mubashir-hsn&show_icons=true&theme=tokyonight" alt="Mubashar's GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir-hsn&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
@@ -66,9 +65,9 @@
 ### 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/mubashir-hsn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mubashir-hsn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mubazi80@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
