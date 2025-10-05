@@ -49,7 +49,7 @@
 |-------------|----------------|
 | 🎓 [Careerly](https://github.com/mubashir-hsn/careerly) | AI Career Coach built using **Next.js App Router**, **Gemini API**, **Neon**, and **Prisma** with AI chatbot, resume builder, and interview coach. |
 | 🛒 [Litefit Store](https://github.com/mubashir-hsn/LiteFit) | **E-commerce Store** for clothing built with **MERN Stack** — includes product filtering, JWT-based authentication, and responsive UI with **TailwindCSS**. |
-| 💬 [ChatApp](https://github.com/mubashir-hsn/chat-app) | Real-time **Chat App** built using **MERN + Socket.IO**, featuring user authentication, online status, and instant messaging. |
+| 🔗 [AI-powered Resume Analyzer](https://github.com/mubashir-hsn/ai-resume-analyzer) | **AI-powered Resume Analyzer** built with **React & Puter.js**. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI. |
 | 🎥 [YouTube Clone](https://github.com/mubashir-hsn/yt-clone) | Video streaming app using **React**, **Tailwind**, and **Rapid API** that mimics YouTube’s experience. |
 ---
 
