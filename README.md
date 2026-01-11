@@ -6,7 +6,7 @@
 ### 🧠 About Me  
 🚀 Passionate **Full-Stack Developer** focused on creating dynamic, scalable, and user-friendly web applications.  
 💡 I love integrating **AI features** into real-world apps — from chatbots to smart recommendation systems.  
-🎯 Currently exploring **Next.js, Gemini AI, and Machine Learning** to build intelligent digital experiences.  
+🎯 Currently exploring **Next.js, Gemini AI, and Docker** to build intelligent digital experiences.  
 📍 Based in **Pakistan** | Open to **remote collaboration** & **freelance projects**.  
 
 ---
@@ -47,7 +47,7 @@
 
 | 🔗 Project | 🧠 Description |
 |-------------|----------------|
-| 🎓 [Careerly](https://github.com/mubashir-hsn/careerly) | AI Career Coach built using **Next.js App Router**, **Gemini API**, **Neon**, and **Prisma** with AI chatbot, resume builder, and interview coach. |
+| 🎓 [Careerly](https://github.com/mubashir-hsn/careerly) | AI Career Coach built using **Next.js App Router**, **Gemini API**, **Neon**, and **Prisma** with AI chatbot, resume builder & analyzer, and interview coach. |
 | 🛒 [Litefit Store](https://github.com/mubashir-hsn/LiteFit) | **E-commerce Store** for clothing built with **MERN Stack** — includes product filtering, JWT-based authentication, and responsive UI with **TailwindCSS**. |
 | 🔗 [AI-powered Resume Analyzer](https://github.com/mubashir-hsn/ai-resume-analyzer) | **AI-powered Resume Analyzer** built with **React & Puter.js**. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI. |
 | 🎥 [YouTube Clone](https://github.com/mubashir-hsn/yt-clone) | Video streaming app using **React**, **Tailwind**, and **Rapid API** that mimics YouTube’s experience. |
@@ -67,6 +67,7 @@
   <a href="https://github.com/mubashir-hsn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mubashir-hsn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mubazi80@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mubashir-commit.vercel.app"><img src="https://img.shields.io/badge/Globe-D14836?style=for-the-badge&logo=globe&logoColor=white"/></a>
 </p>
 
 ---
