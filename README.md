@@ -1,6 +1,6 @@
 
 Readme · MD
-<h1 align="center">Hi, I'm Mubashir 👋</h1>
+<h1 align="center">Hi, I'm Mubashir Hassan 👋</h1>
 <h3 align="center">Full Stack Developer | MERN & Next.js | AI-Powered Applications</h3>
  
 <p align="center">
