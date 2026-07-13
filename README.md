@@ -60,7 +60,7 @@ I'm a Full Stack Developer specializing in building modern, scalable, and user-f
  
 ### 🚀 Featured Projects
  
-#### 🤖 [Careerly – AI Career Coach](https://github.com/mubashir-hsn/careerly) · [🔗 Live Demo]((https://careerly-ai-career-coach.vercel.app/))
+#### 🤖 [Careerly – AI Career Coach](https://github.com/mubashir-hsn/careerly) · [🔗 Live Demo](https://careerly-ai-career-coach.vercel.app/)
 An AI-powered career coaching platform for resume building, interview prep, cover letter generation, and real-time career guidance — with a full subscription and admin system.
  
 **Key Features:** AI resume analysis with ATS scoring, AI mock interviews, AI cover letter generator (Gemini API), token-based usage system, Stripe subscriptions, admin analytics dashboard.
