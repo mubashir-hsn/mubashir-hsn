@@ -2,7 +2,7 @@
 
 # Mubashar Hassan
 
-### Software Engineer Developer — MERN · Next.js · FastAPI · C# .Net
+### Software Engineer — MERN · Next.js · FastAPI · C# & .Net
 
 I build production-grade web applications end-to-end — from database schema to pixel-perfect UI — with a growing focus on AI-integrated products and clean API architecture.
 
