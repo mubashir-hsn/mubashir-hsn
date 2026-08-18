@@ -2,7 +2,7 @@
 
 # Mubashar Hassan
 
-### Full Stack Developer — MERN · Next.js · FastAPI
+### Software Engineer Developer — MERN · Next.js · FastAPI · C# .Net
 
 I build production-grade web applications end-to-end — from database schema to pixel-perfect UI — with a growing focus on AI-integrated products and clean API architecture.
 
@@ -16,12 +16,12 @@ I build production-grade web applications end-to-end — from database schema to
 
 ## About
 
-I'm a self-driven full stack developer who ships complete products, not just prototypes — authentication, payments, admin dashboards, and real-time features are things I build regularly, not just talk about. My core stack is **React / Next.js** on the frontend and **Node.js / Express** on the backend, and I'm actively expanding into **Python and FastAPI** to build faster, more strongly-typed APIs.
+I'm Software developer who ships complete products, not just prototypes — authentication, payments, admin dashboards, and real-time features are things I build regularly, not just talk about. My core stack is **React / Next.js** on the frontend and **Node.js / Express** on the backend, and I'm actively expanding into **Python and FastAPI** to build faster, more strongly-typed APIs.
 
-- 🔭 **Currently building:** full-stack apps with React/Next.js on the frontend and FastAPI on the backend
-- 🌱 **Currently learning:** Python, FastAPI, and backend system design
-- 💡 **Interested in:** AI-integrated SaaS products, developer tooling, and scalable API architecture
-- ⚡ **Fun fact:** I'd rather ship a working feature than polish one that isn't done yet
+-  **Currently building:** full-stack apps with React/Next.js on the frontend and FastAPI, Node and .Net on the backend
+-  **Currently learning:** Python, FastAPI, and backend system design
+-  **Interested in:** AI-integrated SaaS products, developer tooling, and scalable API architecture
+-  **Fun fact:** I'd rather ship a working feature than polish one that isn't done yet
 
 <br>
 
@@ -136,128 +136,6 @@ A full-stack MERN store with a sleek shopping experience and secure checkout.
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔧 APIForge
-
-**API Workspace & Testing Platform**
-
-A workspace for building, testing, and executing saved API requests as a team.
-
-**Highlights**
-
-- JWT auth with protected routes
-- Shared workspaces with member roles
-- Saved requests with execution history
-
-`React` `Vite` `Tailwind` `FastAPI` `SQLAlchemy`
-
-[GitHub](https://github.com/mubashir-hsn/APIForge)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📄 RESUMIND
-
-**AI Resume Analyzer**
-
-A Vite-powered app that scores resumes for ATS compatibility instantly.
-
-**Highlights**
-
-- AI resume analysis + ATS scoring
-- Drag-and-drop PDF upload
-- Secure auth via Puter.js
-
-`React.js` `Puter.js` `Tailwind` `Zustand` `Vite`
-
-[GitHub](https://github.com/mubashir-hsn/ai-resume-analyzer) · [Live Demo](https://ai-resume-analyzer-delta-two.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 iChat
-
-**Real-Time Messaging App**
-
-A MERN chat app with instant one-to-one messaging and live status.
-
-**Highlights**
-
-- Real-time messaging via Socket.IO
-- Online/offline presence indicators
-- Persistent chat history in MongoDB
-
-`React.js` `Node.js` `Socket.IO` `Express.js` `MongoDB`
-
-[GitHub](https://github.com/mubashir-hsn/iChat)
-
-</td>
-<td width="50%" valign="top">
-
-### 🕵️ Anonify
-
-**Anonymous Feedback Platform**
-
-A Next.js platform for collecting anonymous feedback via a unique link.
-
-**Highlights**
-
-- NextAuth credential authentication
-- Email verification on signup
-- Manage and moderate messages
-
-`Next.js` `NextAuth` `MongoDB` `Mongoose` `Tailwind`
-
-[GitHub](https://github.com/mubashir-hsn/anonymous)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✍️ Stayzio
-
-**Blog Platform**
-
-A blogging platform with an admin panel for moderation and analytics.
-
-**Highlights**
-
-- Full CRUD for blog posts
-- Real-time comment system
-- Blog search and related posts
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT`
-
-[GitHub](https://github.com/mubashir-hsn/Stayzio)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍕 Foodie
-
-**Full Stack Food Ordering**
-
-A PHP/MySQL ordering platform with separate admin and user panels.
-
-**Highlights**
-
-- Admin panel for menu & orders
-- Secure login for users & admins
-- Order history and tracking
-
-`PHP` `MySQL` `Bootstrap` `jQuery`
-
-[GitHub](https://github.com/mubashir-hsn/foodi)
-
-</td>
-</tr>
 </table>
 
 <br>
